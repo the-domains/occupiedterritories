@@ -1,0 +1,14 @@
+layout_spectrum: 0.9506395368371159
+typography_spectrum: 0.041487279115244746
+color:
+  brandStrength: 0.02674614079296589
+  lightness: 0.014598041074350476
+  saturation: 0.01823412557132542
+  rhythmicContrast: 0.49249007273465395
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: occupiedterritories
